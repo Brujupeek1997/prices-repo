@@ -1,0 +1,193 @@
+{
+  "sets": [
+    {
+      "setNumber": "75192",
+      "primarySetNumber": "75192-1",
+      "name": "Millennium Falcon",
+      "year": 2017,
+      "pieces": 7541,
+      "theme": "Star Wars",
+      "subtheme": "Ultimate Collector Series",
+      "image": "https://cdn.rebrickable.com/media/sets/75192-1.jpg"
+    },
+    {
+      "setNumber": "75313",
+      "primarySetNumber": "75313-1",
+      "name": "AT-AT",
+      "year": 2021,
+      "pieces": 6785,
+      "theme": "Star Wars",
+      "subtheme": "Ultimate Collector Series",
+      "image": "https://cdn.rebrickable.com/media/sets/75313-1.jpg"
+    },
+    {
+      "setNumber": "75331",
+      "primarySetNumber": "75331-1",
+      "name": "The Razor Crest",
+      "year": 2022,
+      "pieces": 6187,
+      "theme": "Star Wars",
+      "subtheme": "Ultimate Collector Series",
+      "image": "https://cdn.rebrickable.com/media/sets/75331-1.jpg"
+    },
+    {
+      "setNumber": "75367",
+      "primarySetNumber": "75367-1",
+      "name": "Venator-Class Republic Attack Cruiser",
+      "year": 2023,
+      "pieces": 5381,
+      "theme": "Star Wars",
+      "subtheme": "Ultimate Collector Series",
+      "image": "https://cdn.rebrickable.com/media/sets/75367-1.jpg"
+    },
+    {
+      "setNumber": "75389",
+      "primarySetNumber": "75389-1",
+      "name": "The Dark Falcon",
+      "year": 2024,
+      "pieces": 1579,
+      "theme": "Star Wars",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/75389-1.jpg"
+    },
+    {
+      "setNumber": "10316",
+      "primarySetNumber": "10316-1",
+      "name": "Lord of the Rings: Rivendell",
+      "year": 2023,
+      "pieces": 6181,
+      "theme": "Icons",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/10316-1.jpg"
+    },
+    {
+      "setNumber": "10307",
+      "primarySetNumber": "10307-1",
+      "name": "Eiffel Tower",
+      "year": 2022,
+      "pieces": 10001,
+      "theme": "Icons",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/10307-1.jpg"
+    },
+    {
+      "setNumber": "10294",
+      "primarySetNumber": "10294-1",
+      "name": "Titanic",
+      "year": 2021,
+      "pieces": 9092,
+      "theme": "Icons",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/10294-1.jpg"
+    },
+    {
+      "setNumber": "21343",
+      "primarySetNumber": "21343-1",
+      "name": "Viking Village",
+      "year": 2023,
+      "pieces": 2104,
+      "theme": "LEGO Ideas and CUUSOO",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/21343-1.jpg"
+    },
+    {
+      "setNumber": "76269",
+      "primarySetNumber": "76269-1",
+      "name": "Avengers Tower",
+      "year": 2023,
+      "pieces": 5202,
+      "theme": "Super Heroes Marvel",
+      "subtheme": "Avengers",
+      "image": "https://cdn.rebrickable.com/media/sets/76269-1.jpg"
+    },
+    {
+      "setNumber": "71411",
+      "primarySetNumber": "71411-1",
+      "name": "The Mighty Bowser",
+      "year": 2022,
+      "pieces": 2807,
+      "theme": "Super Mario",
+      "subtheme": "",
+      "image": "https://cdn.rebrickable.com/media/sets/71411-1.jpg"
+    },
+    {
+      "setNumber": "75442",
+      "primarySetNumber": "75442-1",
+      "name": "The Mandalorian's N-1 Starfighter",
+      "theme": "Star Wars",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt65d1ec31e0dbb2f8/75442.png",
+      "officialUrl": "https://www.lego.com/en-us/product/the-mandalorians-n-1-starfighter-75442"
+    }
+  ],
+  "minifigures": [
+    {
+      "figureNumber": "fig-003987",
+      "brickLinkCode": "sw1315",
+      "name": "Captain Rex, Cloth Pauldron and Kama",
+      "pieces": 6,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-003987.jpg",
+      "aliases": [
+        "Captain Rex"
+      ]
+    },
+    {
+      "figureNumber": "fig-004464",
+      "brickLinkCode": "sw1170",
+      "name": "The Mandalorian / Din Djarin",
+      "pieces": 5,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-004464.jpg",
+      "aliases": [
+        "The Mandalorian",
+        "Din Djarin"
+      ]
+    },
+    {
+      "figureNumber": "fig-004204",
+      "brickLinkCode": "sw1096",
+      "name": "Ahsoka Tano, Adult",
+      "pieces": 4,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-004204.jpg",
+      "aliases": [
+        "Ahsoka Tano"
+      ]
+    },
+    {
+      "figureNumber": "fig-004583",
+      "brickLinkCode": "sh0017",
+      "name": "Wolverine",
+      "pieces": 4,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-004583.jpg"
+    },
+    {
+      "figureNumber": "fig-010525",
+      "brickLinkCode": "sw1113",
+      "name": "Grogu / The Child (Baby Yoda)",
+      "pieces": 2,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-010525.jpg",
+      "aliases": [
+        "Grogu",
+        "Baby Yoda"
+      ]
+    },
+    {
+      "figureNumber": "fig-004611",
+      "brickLinkCode": "sh0708",
+      "name": "Spider-Man with Dual Molded Legs with Red Boots",
+      "pieces": 3,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-004611.jpg",
+      "aliases": [
+        "Spider-Man"
+      ]
+    },
+    {
+      "figureNumber": "fig-001109",
+      "brickLinkCode": "sw0279",
+      "name": "Boba Fett, Helmet, Jetpack Neckwear, Olive Green Pauldron, Dark Green Hips",
+      "pieces": 7,
+      "image": "https://cdn.rebrickable.com/media/sets/fig-001109.jpg",
+      "aliases": [
+        "Boba Fett"
+      ]
+    }
+  ]
+}
