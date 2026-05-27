@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-26T06:55:03Z",
+  "generatedAt": "2026-05-27T07:13:30Z",
   "sourceRepo": "https://github.com/Brujupeek1997/prices-repo",
   "hostedUrl": "https://brujupeek1997.github.io/prices-repo/prices.json",
   "setAliases": {
@@ -18,18 +18,18 @@
       "image": "https://www.lego.com/cdn/cs/set/assets/blt65d1ec31e0dbb2f8/75442.png",
       "theme": "Star Wars",
       "subtheme": null,
-      "retailPriceUsd": 25.0,
+      "retailPriceUsd": 35.0,
       "availability": "Coming Soon",
       "retired": null,
       "marketMode": "lego-store-official",
       "officialUrl": "https://www.lego.com/en-us/product/the-mandalorians-n-1-starfighter-75442",
-      "updatedAt": "2026-05-26T06:55:02Z",
+      "updatedAt": "2026-05-27T07:13:25Z",
       "sourceNote": "Daily official LEGO Store snapshot for an upcoming set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 25.0,
-          "minUsd": 25.0,
-          "maxUsd": 25.0,
+          "estimateUsd": 35.0,
+          "minUsd": 35.0,
+          "maxUsd": 35.0,
           "confidence": "High",
           "methodology": "Official LEGO Store price cached in the daily static pricing snapshot.",
           "sourceCoverage": [
