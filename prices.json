@@ -1,10 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-29T07:02:07Z",
+  "generatedAt": "2026-05-30T06:29:53Z",
   "sourceRepo": "https://github.com/Brujupeek1997/prices-repo",
   "hostedUrl": "https://brujupeek1997.github.io/prices-repo/prices.json",
-  "setAliases": {},
+  "setAliases": {
+    "75442": "75442",
+    "75442-1": "75442"
+  },
   "minifigureAliases": {},
-  "sets": {},
+  "sets": {
+    "75442": {
+      "setNumber": "75442",
+      "primarySetNumber": "75442-1",
+      "name": "The Mandalorian's N-1 Starfighter",
+      "year": null,
+      "pieces": null,
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt65d1ec31e0dbb2f8/75442.png",
+      "theme": "Star Wars",
+      "subtheme": null,
+      "retailPriceUsd": 35.0,
+      "availability": "Coming Soon",
+      "retired": null,
+      "marketMode": "lego-store-official",
+      "officialUrl": "https://www.lego.com/en-us/product/the-mandalorians-n-1-starfighter-75442",
+      "updatedAt": "2026-05-30T06:29:52Z",
+      "sourceNote": "Daily official LEGO Store snapshot for an upcoming set.",
+      "prices": {
+        "sealed": {
+          "estimateUsd": 35.0,
+          "minUsd": 35.0,
+          "maxUsd": 35.0,
+          "confidence": "High",
+          "methodology": "Official LEGO Store price cached in the daily static pricing snapshot.",
+          "sourceCoverage": [
+            "LEGO Store"
+          ],
+          "directSource": "LEGO Store official price",
+          "freshnessLabel": "Daily static snapshot",
+          "evidenceLabel": "Daily LEGO Store snapshot",
+          "compCount": 1,
+          "soldSourceCount": 1,
+          "spreadRatio": 0.0,
+          "freshestAgeDays": 0
+        }
+      }
+    }
+  },
   "minifigures": {}
 }
