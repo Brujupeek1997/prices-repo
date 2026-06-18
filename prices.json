@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-17T04:54:34Z",
+  "generatedAt": "2026-06-18T04:53:32Z",
   "sourceRepo": "https://github.com/Brujupeek1997/prices-repo",
   "hostedUrl": "https://brujupeek1997.github.io/prices-repo/prices.json",
   "setAliases": {
@@ -23,7 +23,7 @@
       "retired": null,
       "marketMode": "lego-store-official",
       "officialUrl": "https://www.lego.com/en-us/product/the-mandalorians-n-1-starfighter-75442",
-      "updatedAt": "2026-06-17T04:54:29Z",
+      "updatedAt": "2026-06-18T04:53:30Z",
       "sourceNote": "Daily official LEGO Store snapshot for an upcoming set.",
       "prices": {
         "sealed": {
