@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T03:59:23Z",
+  "generatedAt": "2026-08-22T03:55:13Z",
   "sourceRepo": "https://github.com/Brujupeek1997/prices-repo",
   "hostedUrl": "https://brujupeek1997.github.io/prices-repo/prices.json",
   "setAliases": {
@@ -67,13 +67,13 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:58Z",
+      "updatedAt": "2026-08-22T03:54:55Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 849.21,
-          "minUsd": 533.92,
-          "maxUsd": 1501.9,
+          "estimateUsd": 854.78,
+          "minUsd": 534.15,
+          "maxUsd": 1500.99,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -81,16 +81,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "65 BrickLink listings",
-          "compCount": 65,
+          "evidenceLabel": "64 BrickLink listings",
+          "compCount": 64,
           "soldSourceCount": 1,
-          "spreadRatio": 1.14,
+          "spreadRatio": 1.13,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 547.06,
-          "minUsd": 547.06,
-          "maxUsd": 547.06,
+          "estimateUsd": 632.53,
+          "minUsd": 550.05,
+          "maxUsd": 715.0,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -99,13 +99,13 @@
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
           "evidenceLabel": "Thin BrickLink listing data",
-          "compCount": 1,
+          "compCount": 2,
           "soldSourceCount": 1,
-          "spreadRatio": 0.0,
+          "spreadRatio": 0.26,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 610.83,
+          "estimateUsd": 611.7,
           "minUsd": 380.0,
           "maxUsd": 1000.0,
           "confidence": "Medium",
@@ -118,12 +118,12 @@
           "evidenceLabel": "22 BrickLink listings",
           "compCount": 22,
           "soldSourceCount": 1,
-          "spreadRatio": 1.02,
+          "spreadRatio": 1.01,
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 556.34,
-          "minUsd": 452.68,
+          "estimateUsd": 558.01,
+          "minUsd": 456.01,
           "maxUsd": 660.0,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
@@ -154,13 +154,13 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:58Z",
+      "updatedAt": "2026-08-22T03:54:55Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 753.08,
+          "estimateUsd": 756.33,
           "minUsd": 536.36,
-          "maxUsd": 1250.0,
+          "maxUsd": 1251.23,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -168,16 +168,33 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "48 BrickLink listings",
-          "compCount": 48,
+          "evidenceLabel": "46 BrickLink listings",
+          "compCount": 46,
           "soldSourceCount": 1,
           "spreadRatio": 0.95,
           "freshestAgeDays": 0
         },
+        "new_opened": {
+          "estimateUsd": 669.9,
+          "minUsd": 669.9,
+          "maxUsd": 669.9,
+          "confidence": "Low",
+          "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
+          "sourceCoverage": [
+            "BrickLink"
+          ],
+          "directSource": "BrickLink current listings average",
+          "freshnessLabel": "Daily static snapshot",
+          "evidenceLabel": "Thin BrickLink listing data",
+          "compCount": 1,
+          "soldSourceCount": 1,
+          "spreadRatio": 0.0,
+          "freshestAgeDays": 0
+        },
         "opened": {
-          "estimateUsd": 563.69,
-          "minUsd": 399.41,
-          "maxUsd": 800.0,
+          "estimateUsd": 564.0,
+          "minUsd": 400.3,
+          "maxUsd": 800.6,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -207,11 +224,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:57Z",
+      "updatedAt": "2026-08-22T03:54:54Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 581.94,
+          "estimateUsd": 584.37,
           "minUsd": 369.74,
           "maxUsd": 1411.0,
           "confidence": "Medium",
@@ -221,15 +238,15 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "110 BrickLink listings",
-          "compCount": 110,
+          "evidenceLabel": "109 BrickLink listings",
+          "compCount": 109,
           "soldSourceCount": 1,
-          "spreadRatio": 1.79,
+          "spreadRatio": 1.78,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 607.38,
-          "minUsd": 529.0,
+          "estimateUsd": 598.92,
+          "minUsd": 497.0,
           "maxUsd": 700.0,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
@@ -241,11 +258,11 @@
           "evidenceLabel": "7 BrickLink listings",
           "compCount": 7,
           "soldSourceCount": 1,
-          "spreadRatio": 0.28,
+          "spreadRatio": 0.34,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 453.55,
+          "estimateUsd": 453.8,
           "minUsd": 400.0,
           "maxUsd": 493.99,
           "confidence": "Low",
@@ -262,7 +279,7 @@
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 464.53,
+          "estimateUsd": 464.83,
           "minUsd": 320.0,
           "maxUsd": 800.0,
           "confidence": "Low",
@@ -294,11 +311,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:59:00Z",
+      "updatedAt": "2026-08-22T03:54:56Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 167.2,
+          "estimateUsd": 167.84,
           "minUsd": 102.04,
           "maxUsd": 560.0,
           "confidence": "Medium",
@@ -308,14 +325,14 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "268 BrickLink listings",
-          "compCount": 268,
+          "evidenceLabel": "269 BrickLink listings",
+          "compCount": 269,
           "soldSourceCount": 1,
-          "spreadRatio": 2.74,
+          "spreadRatio": 2.73,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 171.54,
+          "estimateUsd": 171.57,
           "minUsd": 109.24,
           "maxUsd": 325.0,
           "confidence": "Medium",
@@ -332,7 +349,7 @@
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 131.7,
+          "estimateUsd": 131.79,
           "minUsd": 99.13,
           "maxUsd": 199.99,
           "confidence": "Medium",
@@ -381,11 +398,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:59:01Z",
+      "updatedAt": "2026-08-22T03:54:57Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 287.74,
+          "estimateUsd": 287.89,
           "minUsd": 171.31,
           "maxUsd": 599.0,
           "confidence": "Medium",
@@ -402,9 +419,9 @@
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 317.71,
+          "estimateUsd": 317.95,
           "minUsd": 235.11,
-          "maxUsd": 435.72,
+          "maxUsd": 436.69,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -419,7 +436,7 @@
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 240.09,
+          "estimateUsd": 240.36,
           "minUsd": 126.75,
           "maxUsd": 599.0,
           "confidence": "Medium",
@@ -432,12 +449,12 @@
           "evidenceLabel": "23 BrickLink listings",
           "compCount": 23,
           "soldSourceCount": 1,
-          "spreadRatio": 1.97,
+          "spreadRatio": 1.96,
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 229.58,
-          "minUsd": 190.77,
+          "estimateUsd": 229.72,
+          "minUsd": 191.18,
           "maxUsd": 249.09,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
@@ -468,11 +485,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:52Z",
+      "updatedAt": "2026-08-22T03:54:52Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 1035.38,
+          "estimateUsd": 1033.89,
           "minUsd": 609.2,
           "maxUsd": 4000.0,
           "confidence": "Medium",
@@ -482,14 +499,14 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "236 BrickLink listings",
-          "compCount": 236,
+          "evidenceLabel": "238 BrickLink listings",
+          "compCount": 238,
           "soldSourceCount": 1,
-          "spreadRatio": 3.27,
+          "spreadRatio": 3.28,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 1047.42,
+          "estimateUsd": 1029.43,
           "minUsd": 740.0,
           "maxUsd": 1500.0,
           "confidence": "Medium",
@@ -499,14 +516,14 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "14 BrickLink listings",
-          "compCount": 14,
+          "evidenceLabel": "15 BrickLink listings",
+          "compCount": 15,
           "soldSourceCount": 1,
-          "spreadRatio": 0.73,
+          "spreadRatio": 0.74,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 648.71,
+          "estimateUsd": 653.77,
           "minUsd": 427.5,
           "maxUsd": 1100.0,
           "confidence": "Medium",
@@ -516,15 +533,15 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "49 BrickLink listings",
-          "compCount": 49,
+          "evidenceLabel": "48 BrickLink listings",
+          "compCount": 48,
           "soldSourceCount": 1,
-          "spreadRatio": 1.04,
+          "spreadRatio": 1.03,
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 1010.0,
-          "minUsd": 435.14,
+          "estimateUsd": 1010.13,
+          "minUsd": 436.11,
           "maxUsd": 4578.15,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
@@ -555,11 +572,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:53Z",
+      "updatedAt": "2026-08-22T03:54:53Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 1375.86,
+          "estimateUsd": 1364.67,
           "minUsd": 909.09,
           "maxUsd": 3399.99,
           "confidence": "Medium",
@@ -569,10 +586,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "70 BrickLink listings",
-          "compCount": 70,
+          "evidenceLabel": "75 BrickLink listings",
+          "compCount": 75,
           "soldSourceCount": 1,
-          "spreadRatio": 1.81,
+          "spreadRatio": 1.83,
           "freshestAgeDays": 0
         },
         "new_opened": {
@@ -593,7 +610,7 @@
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 1066.17,
+          "estimateUsd": 1074.19,
           "minUsd": 719.99,
           "maxUsd": 1499.98,
           "confidence": "Medium",
@@ -603,8 +620,8 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "22 BrickLink listings",
-          "compCount": 22,
+          "evidenceLabel": "21 BrickLink listings",
+          "compCount": 21,
           "soldSourceCount": 1,
           "spreadRatio": 0.73,
           "freshestAgeDays": 0
@@ -642,11 +659,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:54Z",
+      "updatedAt": "2026-08-22T03:54:53Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 710.71,
+          "estimateUsd": 710.86,
           "minUsd": 501.99,
           "maxUsd": 1299.95,
           "confidence": "Medium",
@@ -656,16 +673,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "141 BrickLink listings",
-          "compCount": 141,
+          "evidenceLabel": "140 BrickLink listings",
+          "compCount": 140,
           "soldSourceCount": 1,
           "spreadRatio": 1.12,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 812.03,
-          "minUsd": 735.8,
-          "maxUsd": 888.26,
+          "estimateUsd": 762.8,
+          "minUsd": 655.0,
+          "maxUsd": 896.01,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -674,15 +691,15 @@
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
           "evidenceLabel": "Thin BrickLink listing data",
-          "compCount": 2,
+          "compCount": 3,
           "soldSourceCount": 1,
-          "spreadRatio": 0.19,
+          "spreadRatio": 0.32,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 572.39,
-          "minUsd": 435.72,
-          "maxUsd": 709.99,
+          "estimateUsd": 573.24,
+          "minUsd": 436.69,
+          "maxUsd": 710.11,
           "confidence": "High",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -697,9 +714,9 @@
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 286.89,
-          "minUsd": 34.05,
-          "maxUsd": 589.63,
+          "estimateUsd": 287.3,
+          "minUsd": 34.13,
+          "maxUsd": 590.91,
           "confidence": "Medium",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -729,11 +746,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:55Z",
+      "updatedAt": "2026-08-22T03:54:53Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 658.77,
+          "estimateUsd": 660.08,
           "minUsd": 462.81,
           "maxUsd": 975.0,
           "confidence": "Medium",
@@ -750,9 +767,9 @@
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 549.99,
+          "estimateUsd": 566.5,
           "minUsd": 549.99,
-          "maxUsd": 549.99,
+          "maxUsd": 583.0,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -761,13 +778,13 @@
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
           "evidenceLabel": "Thin BrickLink listing data",
-          "compCount": 1,
+          "compCount": 2,
           "soldSourceCount": 1,
-          "spreadRatio": 0.0,
+          "spreadRatio": 0.06,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 566.11,
+          "estimateUsd": 566.35,
           "minUsd": 419.99,
           "maxUsd": 700.0,
           "confidence": "Medium",
@@ -816,11 +833,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:58:56Z",
+      "updatedAt": "2026-08-22T03:54:54Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 182.17,
+          "estimateUsd": 181.84,
           "minUsd": 115.5,
           "maxUsd": 419.99,
           "confidence": "Medium",
@@ -830,14 +847,14 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "203 BrickLink listings",
-          "compCount": 203,
+          "evidenceLabel": "204 BrickLink listings",
+          "compCount": 204,
           "soldSourceCount": 1,
           "spreadRatio": 1.67,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 182.53,
+          "estimateUsd": 182.91,
           "minUsd": 130.0,
           "maxUsd": 250.0,
           "confidence": "Medium",
@@ -847,16 +864,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "12 BrickLink listings",
-          "compCount": 12,
+          "evidenceLabel": "11 BrickLink listings",
+          "compCount": 11,
           "soldSourceCount": 1,
           "spreadRatio": 0.66,
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 145.77,
+          "estimateUsd": 145.89,
           "minUsd": 115.0,
-          "maxUsd": 177.14,
+          "maxUsd": 177.53,
           "confidence": "High",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -871,20 +888,20 @@
           "freshestAgeDays": 0
         },
         "built": {
-          "estimateUsd": 66.99,
+          "estimateUsd": 72.49,
           "minUsd": 44.99,
           "maxUsd": 110.0,
-          "confidence": "Medium",
+          "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
             "BrickLink"
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "5 BrickLink listings",
-          "compCount": 5,
+          "evidenceLabel": "Thin BrickLink listing data",
+          "compCount": 4,
           "soldSourceCount": 1,
-          "spreadRatio": 0.97,
+          "spreadRatio": 0.9,
           "freshestAgeDays": 0
         }
       }
@@ -898,16 +915,16 @@
       "image": "https://www.lego.com/cdn/cs/set/assets/blt65d1ec31e0dbb2f8/75442.png",
       "theme": "Star Wars",
       "subtheme": null,
-      "retailPriceUsd": 35.0,
+      "retailPriceUsd": 40.0,
       "availability": "Coming Soon",
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": "https://www.lego.com/en-us/product/the-mandalorians-n-1-starfighter-75442",
-      "updatedAt": "2026-08-21T03:59:08Z",
+      "updatedAt": "2026-08-22T03:55:05Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 294.97,
+          "estimateUsd": 294.94,
           "minUsd": 180.63,
           "maxUsd": 700.0,
           "confidence": "Medium",
@@ -917,16 +934,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "41 BrickLink listings",
-          "compCount": 41,
+          "evidenceLabel": "42 BrickLink listings",
+          "compCount": 42,
           "soldSourceCount": 1,
           "spreadRatio": 1.76,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 313.4,
-          "minUsd": 313.4,
-          "maxUsd": 313.4,
+          "estimateUsd": 314.09,
+          "minUsd": 314.09,
+          "maxUsd": 314.09,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -941,9 +958,9 @@
           "freshestAgeDays": 0
         },
         "opened": {
-          "estimateUsd": 213.46,
+          "estimateUsd": 213.73,
           "minUsd": 180.0,
-          "maxUsd": 246.91,
+          "maxUsd": 247.46,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -954,7 +971,7 @@
           "evidenceLabel": "Thin BrickLink listing data",
           "compCount": 2,
           "soldSourceCount": 1,
-          "spreadRatio": 0.31,
+          "spreadRatio": 0.32,
           "freshestAgeDays": 0
         }
       }
@@ -973,11 +990,11 @@
       "retired": null,
       "marketMode": "live-model",
       "officialUrl": null,
-      "updatedAt": "2026-08-21T03:59:00Z",
+      "updatedAt": "2026-08-22T03:54:56Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular set.",
       "prices": {
         "sealed": {
-          "estimateUsd": 584.42,
+          "estimateUsd": 591.49,
           "minUsd": 390.0,
           "maxUsd": 797.97,
           "confidence": "Medium",
@@ -987,16 +1004,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "28 BrickLink listings",
-          "compCount": 28,
+          "evidenceLabel": "29 BrickLink listings",
+          "compCount": 29,
           "soldSourceCount": 1,
-          "spreadRatio": 0.7,
+          "spreadRatio": 0.69,
           "freshestAgeDays": 0
         },
         "new_opened": {
-          "estimateUsd": 457.35,
-          "minUsd": 280.69,
-          "maxUsd": 634.0,
+          "estimateUsd": 445.07,
+          "minUsd": 283.14,
+          "maxUsd": 607.0,
           "confidence": "Low",
           "methodology": "Current value from the simple arithmetic average of BrickLink current listing prices in the matching condition bucket only.",
           "sourceCoverage": [
@@ -1007,7 +1024,7 @@
           "evidenceLabel": "Thin BrickLink listing data",
           "compCount": 2,
           "soldSourceCount": 1,
-          "spreadRatio": 0.77,
+          "spreadRatio": 0.73,
           "freshestAgeDays": 0
         },
         "opened": {
@@ -1038,13 +1055,13 @@
       "image": "https://cdn.rebrickable.com/media/sets/fig-004583.jpg",
       "pieces": 4,
       "marketMode": "live-model",
-      "updatedAt": "2026-08-21T03:59:18Z",
+      "updatedAt": "2026-08-22T03:55:11Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular minifigure.",
       "prices": {
         "new": {
-          "estimateUsd": 39.49,
+          "estimateUsd": 39.8,
           "minUsd": 23.8,
-          "maxUsd": 78.0,
+          "maxUsd": 79.88,
           "confidence": "Medium",
           "methodology": "Current minifigure value derived from BrickLink listing averages in the matching condition bucket only.",
           "sourceCoverage": [
@@ -1055,11 +1072,11 @@
           "evidenceLabel": "42 BrickLink listings",
           "compCount": 42,
           "soldSourceCount": 1,
-          "spreadRatio": 1.37,
+          "spreadRatio": 1.41,
           "freshestAgeDays": 0
         },
         "used": {
-          "estimateUsd": 20.96,
+          "estimateUsd": 21.02,
           "minUsd": 5.0,
           "maxUsd": 76.17,
           "confidence": "Medium",
@@ -1069,10 +1086,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "169 BrickLink listings",
-          "compCount": 169,
+          "evidenceLabel": "170 BrickLink listings",
+          "compCount": 170,
           "soldSourceCount": 1,
-          "spreadRatio": 3.4,
+          "spreadRatio": 3.39,
           "freshestAgeDays": 0
         }
       }
@@ -1084,11 +1101,11 @@
       "image": "https://cdn.rebrickable.com/media/sets/fig-004204.jpg",
       "pieces": 4,
       "marketMode": "live-model",
-      "updatedAt": "2026-08-21T03:59:17Z",
+      "updatedAt": "2026-08-22T03:55:10Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular minifigure.",
       "prices": {
         "new": {
-          "estimateUsd": 12.83,
+          "estimateUsd": 12.85,
           "minUsd": 5.9,
           "maxUsd": 48.5,
           "confidence": "Medium",
@@ -1098,14 +1115,14 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "405 BrickLink listings",
-          "compCount": 405,
+          "evidenceLabel": "411 BrickLink listings",
+          "compCount": 411,
           "soldSourceCount": 1,
           "spreadRatio": 3.32,
           "freshestAgeDays": 0
         },
         "used": {
-          "estimateUsd": 7.4,
+          "estimateUsd": 7.41,
           "minUsd": 1.58,
           "maxUsd": 33.17,
           "confidence": "Medium",
@@ -1115,10 +1132,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "410 BrickLink listings",
-          "compCount": 410,
+          "evidenceLabel": "412 BrickLink listings",
+          "compCount": 412,
           "soldSourceCount": 1,
-          "spreadRatio": 4.27,
+          "spreadRatio": 4.26,
           "freshestAgeDays": 0
         }
       }
@@ -1130,13 +1147,13 @@
       "image": "https://cdn.rebrickable.com/media/sets/fig-010525.jpg",
       "pieces": 2,
       "marketMode": "live-model",
-      "updatedAt": "2026-08-21T03:59:23Z",
+      "updatedAt": "2026-08-22T03:55:13Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular minifigure.",
       "prices": {
         "new": {
-          "estimateUsd": 3.05,
-          "minUsd": 0.75,
-          "maxUsd": 4.03,
+          "estimateUsd": 3.06,
+          "minUsd": 0.92,
+          "maxUsd": 4.0,
           "confidence": "Medium",
           "methodology": "Current minifigure value derived from BrickLink listing averages in the matching condition bucket only.",
           "sourceCoverage": [
@@ -1144,10 +1161,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "668 BrickLink listings",
-          "compCount": 668,
+          "evidenceLabel": "664 BrickLink listings",
+          "compCount": 664,
           "soldSourceCount": 1,
-          "spreadRatio": 1.08,
+          "spreadRatio": 1.01,
           "freshestAgeDays": 0
         },
         "used": {
@@ -1161,8 +1178,8 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "432 BrickLink listings",
-          "compCount": 432,
+          "evidenceLabel": "436 BrickLink listings",
+          "compCount": 436,
           "soldSourceCount": 1,
           "spreadRatio": 1.15,
           "freshestAgeDays": 0
@@ -1176,11 +1193,11 @@
       "image": "https://cdn.rebrickable.com/media/sets/fig-004464.jpg",
       "pieces": 5,
       "marketMode": "live-model",
-      "updatedAt": "2026-08-21T03:59:13Z",
+      "updatedAt": "2026-08-22T03:55:08Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular minifigure.",
       "prices": {
         "new": {
-          "estimateUsd": 10.39,
+          "estimateUsd": 10.4,
           "minUsd": 4.99,
           "maxUsd": 41.43,
           "confidence": "Medium",
@@ -1193,11 +1210,11 @@
           "evidenceLabel": "150 BrickLink listings",
           "compCount": 150,
           "soldSourceCount": 1,
-          "spreadRatio": 3.51,
+          "spreadRatio": 3.5,
           "freshestAgeDays": 0
         },
         "used": {
-          "estimateUsd": 7.5,
+          "estimateUsd": 7.53,
           "minUsd": 4.0,
           "maxUsd": 34.28,
           "confidence": "Medium",
@@ -1207,10 +1224,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "214 BrickLink listings",
-          "compCount": 214,
+          "evidenceLabel": "216 BrickLink listings",
+          "compCount": 216,
           "soldSourceCount": 1,
-          "spreadRatio": 4.04,
+          "spreadRatio": 4.02,
           "freshestAgeDays": 0
         }
       }
@@ -1222,13 +1239,13 @@
       "image": "https://cdn.rebrickable.com/media/sets/fig-003987.jpg",
       "pieces": 6,
       "marketMode": "live-model",
-      "updatedAt": "2026-08-21T03:59:11Z",
+      "updatedAt": "2026-08-22T03:55:07Z",
       "sourceNote": "Daily BrickLink arithmetic-average snapshot for a tracked popular minifigure.",
       "prices": {
         "new": {
-          "estimateUsd": 11.59,
+          "estimateUsd": 11.62,
           "minUsd": 4.9,
-          "maxUsd": 235.85,
+          "maxUsd": 235.95,
           "confidence": "Medium",
           "methodology": "Current minifigure value derived from BrickLink listing averages in the matching condition bucket only.",
           "sourceCoverage": [
@@ -1236,16 +1253,16 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "687 BrickLink listings",
-          "compCount": 687,
+          "evidenceLabel": "695 BrickLink listings",
+          "compCount": 695,
           "soldSourceCount": 1,
-          "spreadRatio": 19.93,
+          "spreadRatio": 19.88,
           "freshestAgeDays": 0
         },
         "used": {
-          "estimateUsd": 9.72,
+          "estimateUsd": 10.07,
           "minUsd": 4.99,
-          "maxUsd": 50.0,
+          "maxUsd": 77.0,
           "confidence": "Medium",
           "methodology": "Current minifigure value derived from BrickLink listing averages in the matching condition bucket only.",
           "sourceCoverage": [
@@ -1253,10 +1270,10 @@
           ],
           "directSource": "BrickLink current listings average",
           "freshnessLabel": "Daily static snapshot",
-          "evidenceLabel": "205 BrickLink listings",
-          "compCount": 205,
+          "evidenceLabel": "204 BrickLink listings",
+          "compCount": 204,
           "soldSourceCount": 1,
-          "spreadRatio": 4.63,
+          "spreadRatio": 7.15,
           "freshestAgeDays": 0
         }
       }
